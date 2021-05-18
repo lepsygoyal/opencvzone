@@ -210,8 +210,6 @@ cv2.destroyAllWindows()
   <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/cornerRect.jpg">
 </p>
 
-<hr>
-
 <pre>
 import opencvzone
 import cv2
@@ -236,6 +234,7 @@ while True:
 </pre>
 
 <hr>
+
 ### FPS
 
 <hr>
@@ -243,7 +242,6 @@ while True:
 <p align="center">
   <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/FPS.jpg">
 </p>
-<hr>
 
 <pre>
 import opencvzone
@@ -262,6 +260,7 @@ while True:
 </pre>
 
 <hr>
+
 ### Gesture Volume Control
 
 <hr>
@@ -269,7 +268,7 @@ while True:
 <p align="center">
   <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/Volume.gif">
 </p>
-<hr>
+
 
 <pre>
 import opencvzone
