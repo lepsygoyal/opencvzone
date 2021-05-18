@@ -15,7 +15,7 @@ You can  simply use pip to install the latest version of cvzone.
 <hr>
 
 <p align="center">
-  <img width="640" height="360" src="https://www.computervision.zone/wp-content/uploads/2021/05/Face-Detection-2.jpg">
+  <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/Face-Detection.jpg">
 </p>
 
 <pre>
@@ -43,7 +43,7 @@ cv2.destroyAllWindows()
 <hr>
 
 <p align="center">
-  <img width="640" height="360" src="https://github.com/cvzone/cvzone/blob/master/Results/Fingers-Distance.jpg">
+  <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/Fingers-Distance.jpg">
 </p>
 
 #### Basic Code Example 
@@ -93,7 +93,7 @@ if lmList:
 
 #### Find Hand Type - i.e. Left or Right 
 <p align="center">
-  <img width="320" height="180" src="https://github.com/cvzone/cvzone/blob/master/Results/LeftHand.jpg"> <img width="320" height="180" src="https://github.com/cvzone/cvzone/blob/master/Results/RightHand.jpg">
+  <img width="320" height="180" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/LeftHand.jpg"> <img width="320" height="180" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/RightHand.jpg">
 </p>
 
 
@@ -114,7 +114,7 @@ if lmList:
 <hr>
 
 <p align="center">
-  <img width="640" height="360" src="https://www.computervision.zone/wp-content/uploads/2021/04/vlcsnap-2021-03-27-22h34m51s546.jpg">
+  <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/pose_estimation.jpg">
 </p>
 
 <pre>
@@ -147,7 +147,7 @@ cv2.destroyAllWindows()
 <hr>
 
 <p align="center">
-  <img width="640" height="360" src="https://www.computervision.zone/wp-content/uploads/2021/05/Face-Landmarks-2.jpg">
+  <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/Face-Landmarks.png">
 </p>
 
 <pre>
@@ -175,7 +175,7 @@ cv2.destroyAllWindows()
 <hr>
 
 <p align="center">
-  <img width="640" height="360" src="https://github.com/cvzone/cvzone/blob/master/Results/ImageStack1.gif">
+  <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/ImageStack1.gif">
 </p>
 
 <pre>
@@ -207,7 +207,7 @@ cv2.destroyAllWindows()
 <hr>
 
 <p align="center">
-  <img width="640" height="360" src="https://github.com/cvzone/cvzone/blob/master/Results/cornerRect.jpg">
+  <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/cornerRect.jpg">
 </p>
 
 <hr>
@@ -240,7 +240,7 @@ while True:
 <hr>
 
 <p align="center">
-  <img width="640" height="360" src="https://github.com/cvzone/cvzone/blob/master/Results/FPS.jpg">
+  <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/FPS.jpg">
 </p>
 
 <pre>
@@ -265,7 +265,7 @@ while True:
 <hr>
 
 <p align="center">
-  <img width="640" height="360" src="https://github.com/cvzone/cvzone/blob/master/Results/FPS.jpg">
+  <img width="640" height="360" src="https://github.com/lepsygoyal/opencvzone/blob/main/Results/Volume.gif">
 </p>
 
 <pre>
